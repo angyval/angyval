@@ -14,8 +14,8 @@ Service,
 * GitHub.
 
 ## ✨ Hobby
-*📕  reading,
-*💃  dance,
-*🎧  music,
-*🚴  sport,
-*☀️  nature.
+* 📕  reading,
+* 💃  dance,
+* 🎧  music,
+* 🚴  sport,
+* ☀️  nature.
